@@ -1,0 +1,4 @@
+C:\Users\UserX\source\repos\tictactoe\Debug\tictactoe.exe
+C:\Users\UserX\source\repos\tictactoe\Debug\tictactoe.pdb
+C:\Users\UserX\Desktop\tictaktoe\Debug\tictactoe.exe
+C:\Users\UserX\Desktop\tictaktoe\Debug\tictactoe.pdb
